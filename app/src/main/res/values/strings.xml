@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Lets ASH PHONE CONTROL APP press Send in WhatsApp after you ask it to send a message. It only works inside WhatsApp and collects nothing.</string>
+</resources>
